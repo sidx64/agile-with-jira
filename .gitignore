@@ -79,3 +79,11 @@ fabric.properties
 !.vscode/extensions.json
 *.code-workspace
 
+.idea/.gitignore
+.idea/agile-with-jira.iml
+.idea/codeStyles/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/
+.idea/vcs.xml
