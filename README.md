@@ -1,2 +1,2 @@
 # agile-with-jira
-A simple primer for Agile beginners with JIRA
+A simple primer for agile beginnings with JIRA
